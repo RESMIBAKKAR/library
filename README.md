@@ -5,4 +5,3 @@ Id.            name
 3.              subscriper
 و لاضافة اول حساب كآدمن يجب الذهاب للModel User و تعديل القيمة الافتراضية المعطاة للrole_idالى 1و بعد الاضافة ارجاعها لما كانت عليه 
 
-![SCHEMA DIAGRAM](image-2.png)
